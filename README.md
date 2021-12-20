@@ -1,3 +1,4 @@
 # Emotion-detection
 run main.ipynb
-![Screenshot (24)](https://user-images.githubusercontent.com/61228524/146721613-2c02d074-53d8-47ed-ac6f-6cbff02ee91e.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/61228524/146724291-2d34992f-dd85-4bee-a502-c07b2948a2a3.png)
